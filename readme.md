@@ -27,7 +27,7 @@ A real-time visualization of Divvy bike station status across Chicago, showing s
    user = "your-username"
    password = "your-password"
    database = "BOOTCAMP"
-   schema = "AALAU"
+   schema = "your-schema"
    warehouse = "BOOTCAMP_WH"
    ```
 4. Run the app:
